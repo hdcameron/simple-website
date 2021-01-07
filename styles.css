@@ -1,12 +1,12 @@
 /* Set background */
 html {
-  background-color: maroon;
+  background-color: silver;
 }
 
 /* styles for the body of the site */
 body {
   width: 60%;
-  background-color: orange;
+  background-color: grey;
   border: 5px solid black;
   padding: 0 20px 20px 20px;
   margin-top: 25px;
